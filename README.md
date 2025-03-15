@@ -140,4 +140,7 @@ CVSS: <CVSS-Vector-String>
 
 ## Email us at 
 dirtycves@gmail.com
+## For example check 
+https://www.dirtycves.com/search/GHSA-h42x-xx2q-6v6g
+
 
